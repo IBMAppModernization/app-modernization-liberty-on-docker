@@ -64,9 +64,9 @@ The lab illustrates how to build a simple WebSphere Liberty app with Docker
 
 8.1 From the client terminal window get a shell inside your running container.
 
-    ```
-      docker exec -it $LIBERTYIMG bash
-    ```
+  ```
+   docker exec -it $LIBERTYIMG bash
+  ```
 
 8.2 Verify that your command prompt changes to ```bash-4.2$``` indicating that you are in a bash sheel in your running container
 
